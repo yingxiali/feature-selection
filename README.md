@@ -2,7 +2,7 @@
 
 The directory contains 3 main types of files, 
 
-The first one is download_data, whose function is to download the data needed for this paper from OpenML using "datset_ids.RData".
+The first one is down_data, whose function is to download the data needed for this paper from OpenML using "datset_ids.RData".
 
 The second one is AnalysisCluster, whose function is to generate iterative files.
 
