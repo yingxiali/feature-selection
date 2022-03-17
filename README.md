@@ -15,14 +15,14 @@ The third one is Functions_AnalysisCluster, which contains various feature selec
 
 # feature-selection
 
-AnalysisCluster.R performs the benchmark study using the functions from the
+AnalysisCluster.R performs the benchmark study using the function
 Functions_AnalysisCluster.R, Functions_AnalysisCluster.R for rank methods.
 
-AnalysisCluster_1.R performs the benchmark study using the functions from the
+AnalysisCluster_1.R performs the benchmark study using the function
 Functions_AnalysisCluster_1.R, Functions_AnalysisCluster_1.R for Lasso.
 
-AnalysisCluster_2.R performs the benchmark study using the functions from the
+AnalysisCluster_2.R performs the benchmark study using the function
 Functions_AnalysisCluster_2.R, Functions_AnalysisCluster_2.R for Rfe.
 
-AnalysisCluster__3.R performs the benchmark study using the functions from the
+AnalysisCluster__3.R performs the benchmark study using the function
 Functions_AnalysisCluster_3.R, Functions_AnalysisCluster_3.R for GA.
